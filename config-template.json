@@ -1,0 +1,7 @@
+{
+    "mysql": {
+        "database": "example",
+        "user": "my-db-user",
+        "password": "some-password"
+    }
+}

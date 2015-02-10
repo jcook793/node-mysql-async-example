@@ -1,0 +1,23 @@
+{
+  "name": "node-mysql-async-example",
+  "version": "1.0.0",
+  "description": "Simple example of using Node with MySQL and the Async library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcook793/node-mysql-async-example.git"
+  },
+  "author": "John Cook <jcook793@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcook793/node-mysql-async-example/issues"
+  },
+  "homepage": "https://github.com/jcook793/node-mysql-async-example",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mysql": "^2.5.4"
+  }
+}
