@@ -1,5 +1,5 @@
 # Node.js example using the MySQL and Async libraries
-I threw this together to demonstrate a simple command-line Node app that uses a MySQL DB and the Async library.
+I threw this together to demonstrate a simple command-line Node app that uses the [mysql](https://github.com/felixge/node-mysql/) and [Async ](https://github.com/caolan/async) libraries.
 
 # To "build" the app
 This is how you install all the project dependencies for just about any Node app:
